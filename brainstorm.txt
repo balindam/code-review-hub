@@ -1,0 +1,6 @@
+different microservices needed
+- user service
+- payment service
+- code submission service
+- code review service
+- notification service (later part)
